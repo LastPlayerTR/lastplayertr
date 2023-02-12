@@ -2,6 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/8c878fa8-3090-4593-a518-e09da2e57931.svg)](https://wakatime.com/@8c878fa8-3090-4593-a518-e09da2e57931)
 
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPlayerTR&layout=compact&hide_border=true&langs_count=999&theme=dark">
+	<br/>
+	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=LastPlayerTR&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark"/>
 <!--
 **LastPlayerTR/lastplayertr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
