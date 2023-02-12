@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/8c878fa8-3090-4593-a518-e09da2e57931.svg)](https://wakatime.com/@8c878fa8-3090-4593-a518-e09da2e57931)
+
 <!--
 **LastPlayerTR/lastplayertr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
