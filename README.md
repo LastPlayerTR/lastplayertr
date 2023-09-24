@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-Lua Developer +3y                                  
-NodeJS Developer +5y⠀⠀⠀                                
-Backend Web Development +5y 
+Lua Developer +3y      
+
+NodeJS Developer +5y⠀
+⠀⠀                                
+Backend Web Development +5y
+
 Network Specialist
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPlayerTR&layout=compact&hide_border=true&langs_count=999&theme=dark">
