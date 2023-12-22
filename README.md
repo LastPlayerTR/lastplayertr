@@ -14,4 +14,4 @@ Network Specialist
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/LastPlayerTR)](https://leetcode.com/LastPlayerTR)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/LastPlayerTR?ext=heatmap)](https://leetcode.com/LastPlayerTR)
