@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Lua Developer +4y      
+Lua Developer +5y      
 
-NodeJS Developer +6y⠀
+NodeJS Developer +7y⠀
 ⠀⠀                                
-Backend Web Development +6y
+Backend Web Development +7y
 
-Cybersecurity Specialist +1y
+Cybersecurity Specialist +3y
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPlayerTR&layout=compact&hide_border=true&langs_count=999&theme=dark">
 	<br/>
